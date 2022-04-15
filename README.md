@@ -68,13 +68,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-### SURGE DOMAIN
-
-Running as simoesruimp@gmail.com (Student)
-
-        project: /home/rs/react-app/build
-         domain: thinkable-owl.surge.sh
-         upload: [====================] 100% eta: 0.0s (15 files, 567173 bytes)
-            CDN: [====================] 100%
-             IP: 138.197.235.123
