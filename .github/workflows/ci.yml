@@ -23,7 +23,7 @@ jobs:
           CI: true
       - name: Build Project
         if: github.event_name == 'push'
-        run: npm run bluid
+        run: npm run build
       - name: Deploy to staging
         if: github.event_name == 'push'
         run: npx surge --project ./build --domain thinkable-owl.surge.sh
